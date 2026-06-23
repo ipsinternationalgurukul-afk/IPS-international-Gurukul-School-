@@ -1,0 +1,6 @@
+{
+  "name": "IPAC International",
+  "description": "Official administrator platform for IPS International Gurukul School to manage student records, attendances, and notify parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
